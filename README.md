@@ -1,8 +1,11 @@
 # Drum-Kit
-A drum kit web app you can play in your browser!
+### A drum kit web app you can play in your browser!
 
-Drum-Kit is an application made during a web-dev bootcamp hosted by [The App Brewery](https://www.appbrewery.co/).  This app's purpose was to explore more advance javascript ideas than previously shown.  Namely, using the switch statement to alter elements in the DOM and their css styles.
+![Drumkit demo image](https://github.com/StevenSigil/Drum-Kit/blob/main/images/DrumKit%20-%20GitHub%20Social%20Preview.png)
+<figcaption>Drumkit landing page</figcaption>
 
-You can view the app here: https://stevensigil.github.io/Drum-Kit/
+<br/> <br/>
 
-*All assets were supplied by the instructor of the bootcamp and are intended for educational purposes only.*
+Drum Kit was my introduction to more complicated JavaScript operations during my learning phase.  Namely, using the switch statement to alter elements in the DOM and their css styles.
+
+If you would like to check it out yourself, visit this link: https://stevensigil.github.io/Drum-Kit/
